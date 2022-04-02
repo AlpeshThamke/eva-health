@@ -1,0 +1,13 @@
+*{
+    font-family: 'Poppins','Montserrat' serif;
+}
+
+.landing{
+    background-color: #373B7B;
+    color:white;
+    height: 640px;  
+    width: 100%;
+    position: absolute;
+    padding: 0;
+    margin-top:0;
+}
